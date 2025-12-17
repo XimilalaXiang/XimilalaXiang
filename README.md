@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Xiang 👋</h1>
 
 <p align="center">
-  法学在读 · 跨界探索者 · 用 AI 把想法做成能用的产品
+  SYSU大二法学在读 · 跨界探索者 · 用 AI 把想法做成能用的产品
 </p>
 
 <p align="center">
