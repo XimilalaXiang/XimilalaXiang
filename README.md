@@ -21,4 +21,4 @@
 
 - 🔭 近期关注：AI 与未来、思维与学习、从 0 到 1 的创造与价值
 - 🧩 兴趣交叉点：**Law × AI × Language × Knowledge**
-- ✍️ 写作：读书笔记 / AI 学习 / Newsletter / 生活随笔（见博客）
+- ✍️ 写作：读书笔记 / AI 学习 / Newsletter / 生活随笔
